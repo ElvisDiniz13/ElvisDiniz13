@@ -5,6 +5,7 @@
 
 
 ![Elvis GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisDiniz13&show_icons=true&theme=dark)
+<!-- ![Elvis GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisDiniz13&show_icons=true) -->
 
 
 ### Tecnologias que uso no meu dia 👨‍💻
